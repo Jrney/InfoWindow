@@ -1,0 +1,4 @@
+InfoWindow
+==========
+
+It's something.
